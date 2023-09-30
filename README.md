@@ -5,8 +5,7 @@ This video presents a prototype that I developed as part of my coursework in MIS
 
 ## Prototype Backend ModelL
 [Owl Connect-Data-Model-2018-03-26_23_09.pdf](https://github.com/Vuitton-Toine/Prototype-Owl-Insider/files/12772814/Owl.Connect-Data-Model-2018-03-26_23_09.pdf)
-
-[![Owl Connect-Data-Model-2018-03-26_23_09.pdf](https://drive.google.com/file/d/19dYIgKWfDpGAMNT0DGtIZb0nvHEH1N3P/view?usp=drive_link)](https://github.com/Vuitton-Toine/Prototype-Owl-Insider/files/12772814/Owl.Connect-Data-Model-2018-03-26_23_09.pdf)
+![datamodel](https://github.com/Vuitton-Toine/Prototype-Owl-Insider/assets/81653524/76de9e9a-c770-4ca0-aa57-e3abc2f46c76)
 
 ## Functional Presentation
 [![Watch the video](https://img.youtube.com/vi/1FUjzVgjYqM/0.jpg)](https://youtu.be/1FUjzVgjYqM)
