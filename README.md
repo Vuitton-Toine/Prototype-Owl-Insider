@@ -6,6 +6,6 @@ This video presents a prototype that I developed as part of my coursework in MIS
 ## Prototype Backend Model
 ![datamodel](https://github.com/Vuitton-Toine/Prototype-Owl-Insider/assets/81653524/76de9e9a-c770-4ca0-aa57-e3abc2f46c76)
 
-## Functional Presentation
+## Functional Video Presentation
 [![Watch the video](https://img.youtube.com/vi/1FUjzVgjYqM/0.jpg)](https://youtu.be/1FUjzVgjYqM)
 
